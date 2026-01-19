@@ -1,5 +1,5 @@
 # BarberCenter
-## Sistema de Gestão de Barbearia
+_Sistema de Gestão de Barbearia_
 
 ## Status do projeto
 - Em desenvolvimento
